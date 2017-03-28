@@ -1,8 +1,0 @@
-My super story
-is so cooooool
-<<<<<<< HEAD
-
-o my god? a forth string
-=======
-just amazing
->>>>>>> master
